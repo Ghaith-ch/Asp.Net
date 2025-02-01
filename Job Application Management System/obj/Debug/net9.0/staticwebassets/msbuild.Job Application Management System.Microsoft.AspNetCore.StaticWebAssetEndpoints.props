@@ -1,0 +1,64 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Job Application Management System/resumes/317df645-c5f5-4b94-a76c-a58dfea14994.3mzkoe1y6m.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\317df645-c5f5-4b94-a76c-a58dfea14994.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3mzkoe1y6m"},{"Name":"integrity","Value":"sha256-S5HsS5RWz4oz9iL0Y5IcMXyB/npJdLnpZB0uQJaYvMY="},{"Name":"label","Value":"_content/Job Application Management System/resumes/317df645-c5f5-4b94-a76c-a58dfea14994.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"133411"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022S5HsS5RWz4oz9iL0Y5IcMXyB/npJdLnpZB0uQJaYvMY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 09:11:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Job Application Management System/resumes/317df645-c5f5-4b94-a76c-a58dfea14994.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\317df645-c5f5-4b94-a76c-a58dfea14994.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-S5HsS5RWz4oz9iL0Y5IcMXyB/npJdLnpZB0uQJaYvMY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"133411"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022S5HsS5RWz4oz9iL0Y5IcMXyB/npJdLnpZB0uQJaYvMY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 09:11:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Job Application Management System/resumes/6179516c-f673-4c99-a1bd-a62d82cf98f2.kbe9c3ioam.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kbe9c3ioam"},{"Name":"integrity","Value":"sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="},{"Name":"label","Value":"_content/Job Application Management System/resumes/6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"128162"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 11:31:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Job Application Management System/resumes/6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"128162"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 11:31:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Job Application Management System/resumes/db9c4805-4f9a-4323-aee0-011a8c727385.kbe9c3ioam.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\db9c4805-4f9a-4323-aee0-011a8c727385.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kbe9c3ioam"},{"Name":"integrity","Value":"sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="},{"Name":"label","Value":"_content/Job Application Management System/resumes/db9c4805-4f9a-4323-aee0-011a8c727385.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"128162"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 11:56:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Job Application Management System/resumes/db9c4805-4f9a-4323-aee0-011a8c727385.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\db9c4805-4f9a-4323-aee0-011a8c727385.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"128162"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 11:56:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Job Application Management System/resumes/dc87748f-49dc-4052-b258-4750c8f41792.kbe9c3ioam.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\dc87748f-49dc-4052-b258-4750c8f41792.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kbe9c3ioam"},{"Name":"integrity","Value":"sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="},{"Name":"label","Value":"_content/Job Application Management System/resumes/dc87748f-49dc-4052-b258-4750c8f41792.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"128162"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 11:38:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Job Application Management System/resumes/dc87748f-49dc-4052-b258-4750c8f41792.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\dc87748f-49dc-4052-b258-4750c8f41792.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"128162"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 11:38:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Job Application Management System/resumes/e7f03fa2-e095-4e3d-881e-aadf965a28b0.kbe9c3ioam.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kbe9c3ioam"},{"Name":"integrity","Value":"sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="},{"Name":"label","Value":"_content/Job Application Management System/resumes/e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"128162"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 11:56:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Job Application Management System/resumes/e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"128162"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 15 Jan 2025 11:56:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

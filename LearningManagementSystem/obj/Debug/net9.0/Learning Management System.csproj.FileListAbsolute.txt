@@ -1,0 +1,7 @@
+C:\Users\ghaai\Desktop\.NET\Learning Management System\obj\Debug\net9.0\Learning Management System.csproj.AssemblyReference.cache
+C:\Users\ghaai\Desktop\.NET\Learning Management System\obj\Debug\net9.0\Learning Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghaai\Desktop\.NET\Learning Management System\obj\Debug\net9.0\Learning Management System.AssemblyInfoInputs.cache
+C:\Users\ghaai\Desktop\.NET\Learning Management System\obj\Debug\net9.0\Learning Management System.AssemblyInfo.cs
+C:\Users\ghaai\Desktop\.NET\Learning Management System\obj\Debug\net9.0\Learning Management System.csproj.CoreCompileInputs.cache
+C:\Users\ghaai\Desktop\.NET\Learning Management System\obj\Debug\net9.0\Learning Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ghaai\Desktop\.NET\Learning Management System\obj\Debug\net9.0\Learning Management System.MvcApplicationPartsAssemblyInfo.cache

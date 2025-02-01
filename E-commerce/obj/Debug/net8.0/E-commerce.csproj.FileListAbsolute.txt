@@ -1,0 +1,628 @@
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.AssemblyReference.cache
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfoInputs.cache
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfo.cs
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CoreCompileInputs.cache
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\appsettings.json
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.exe
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.deps.json
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.runtimeconfig.json
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.pdb
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.build.E-commerce.props
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce.props
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-commerce.props
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\scopedcss\bundle\E-commerce.styles.css
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CopyComplete
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\refint\E-commerce.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.pdb
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.genruntimeconfig.cache
+C:\Users\Ghaith\Desktop\.NET\E-commerce\obj\Debug\net8.0\ref\E-commerce.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+c:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+c:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+c:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+c:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+c:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.AssemblyReference.cache
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfoInputs.cache
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfo.cs
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CoreCompileInputs.cache
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cs
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cache
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.pdb
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\appsettings.Development.json
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\appsettings.json
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\E-commerce.exe
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\E-commerce.deps.json
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\E-commerce.runtimeconfig.json
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\E-commerce.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\E-commerce.pdb
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\AutoMapper.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Azure.Core.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Azure.Identity.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Humanizer.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.CodeDom.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Memory.Data.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Text.Json.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.build.json
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.development.json
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.build.E-commerce.props
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce.props
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-commerce.props
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.pack.json
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\scopedcss\bundle\E-commerce.styles.css
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CopyComplete
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.dll
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\refint\E-commerce.dll
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\E-commerce.genruntimeconfig.cache
+D:\my des\.NET\E-commerce\obj\Debug\net8.0\ref\E-commerce.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\my des\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ghaith\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\appsettings.Development.json
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\appsettings.json
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\E-commerce.staticwebassets.endpoints.json
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\E-commerce.exe
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\E-commerce.deps.json
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\E-commerce.runtimeconfig.json
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\E-commerce.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\E-commerce.pdb
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\AutoMapper.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Azure.Core.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Azure.Identity.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Humanizer.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.CodeDom.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Memory.Data.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dddddd\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.AssemblyReference.cache
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfoInputs.cache
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfo.cs
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CoreCompileInputs.cache
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cs
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cache
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\scopedcss\bundle\E-commerce.styles.css
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.build.json
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.development.json
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.build.E-commerce.props
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce.props
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-commerce.props
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.Up2Date
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.dll
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\refint\E-commerce.dll
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.pdb
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\E-commerce.genruntimeconfig.cache
+D:\dddddd\.NET\E-commerce\obj\Debug\net8.0\ref\E-commerce.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\appsettings.json
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.staticwebassets.endpoints.json
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.exe
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.deps.json
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.runtimeconfig.json
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\E-commerce.pdb
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.AssemblyReference.cache
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfoInputs.cache
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfo.cs
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CoreCompileInputs.cache
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\scopedcss\bundle\E-commerce.styles.css
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.build.E-commerce.props
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce.props
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-commerce.props
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.csproj.Up2Date
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\refint\E-commerce.dll
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.pdb
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\E-commerce.genruntimeconfig.cache
+C:\Users\ghaai\Desktop\.NET\E-commerce\obj\Debug\net8.0\ref\E-commerce.dll

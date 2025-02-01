@@ -1,0 +1,59 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "C#: <project-name> Debug",
+        "type": "dotnet",
+        "request": "launch",
+        "projectPath": "${workspaceFolder}/<relative-path-to-project-folder><project-name>.csproj"
+      },
+
+      {
+        "name": ".NET Core Launch (http)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/bin/Debug/net8.0/E-commerce.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "stopAtEntry": false,
+        "serverReadyAction": {
+          "action": "openExternally",
+          "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+        },
+        "env": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "sourceFileMap": {
+          "/Views": "${workspaceFolder}/Views"
+        },
+        "launchBrowser": true,
+        "applicationUrl": "http://localhost:5219",  // HTTP URL from your launchSettings.json
+        "dotnetRunMessages": true
+      },
+      {
+        "name": ".NET Core Launch (https)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/bin/Debug/net8.0/E-commerce.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "stopAtEntry": false,
+        "serverReadyAction": {
+          "action": "openExternally",
+          "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+        },
+        "env": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "sourceFileMap": {
+          "/Views": "${workspaceFolder}/Views"
+        },
+        "launchBrowser": true,
+        "applicationUrl": "https://localhost:7127",  // HTTPS URL from your launchSettings.json
+        "dotnetRunMessages": true
+      }
+    ]
+  }
+  

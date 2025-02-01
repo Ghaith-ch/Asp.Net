@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "Qmbbs4OmAkotECEf0/g8iUEslj45ennTZCEkEp/x0fk=",
+  "Source": "Job Application Management System",
+  "BasePath": "_content/Job Application Management System",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Job Application Management System\\wwwroot",
+      "Source": "Job Application Management System",
+      "ContentRoot": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\",
+      "BasePath": "_content/Job Application Management System",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\317df645-c5f5-4b94-a76c-a58dfea14994.pdf",
+      "SourceId": "Job Application Management System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\",
+      "BasePath": "_content/Job Application Management System",
+      "RelativePath": "resumes/317df645-c5f5-4b94-a76c-a58dfea14994#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3mzkoe1y6m",
+      "Integrity": "S5HsS5RWz4oz9iL0Y5IcMXyB/npJdLnpZB0uQJaYvMY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resumes\\317df645-c5f5-4b94-a76c-a58dfea14994.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf",
+      "SourceId": "Job Application Management System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\",
+      "BasePath": "_content/Job Application Management System",
+      "RelativePath": "resumes/6179516c-f673-4c99-a1bd-a62d82cf98f2#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbe9c3ioam",
+      "Integrity": "wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resumes\\6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\db9c4805-4f9a-4323-aee0-011a8c727385.pdf",
+      "SourceId": "Job Application Management System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\",
+      "BasePath": "_content/Job Application Management System",
+      "RelativePath": "resumes/db9c4805-4f9a-4323-aee0-011a8c727385#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbe9c3ioam",
+      "Integrity": "wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resumes\\db9c4805-4f9a-4323-aee0-011a8c727385.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\dc87748f-49dc-4052-b258-4750c8f41792.pdf",
+      "SourceId": "Job Application Management System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\",
+      "BasePath": "_content/Job Application Management System",
+      "RelativePath": "resumes/dc87748f-49dc-4052-b258-4750c8f41792#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbe9c3ioam",
+      "Integrity": "wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resumes\\dc87748f-49dc-4052-b258-4750c8f41792.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf",
+      "SourceId": "Job Application Management System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\",
+      "BasePath": "_content/Job Application Management System",
+      "RelativePath": "resumes/e7f03fa2-e095-4e3d-881e-aadf965a28b0#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbe9c3ioam",
+      "Integrity": "wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resumes\\e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "resumes/317df645-c5f5-4b94-a76c-a58dfea14994.3mzkoe1y6m.pdf",
+      "AssetFile": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\317df645-c5f5-4b94-a76c-a58dfea14994.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S5HsS5RWz4oz9iL0Y5IcMXyB/npJdLnpZB0uQJaYvMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 09:11:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3mzkoe1y6m"
+        },
+        {
+          "Name": "label",
+          "Value": "resumes/317df645-c5f5-4b94-a76c-a58dfea14994.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S5HsS5RWz4oz9iL0Y5IcMXyB/npJdLnpZB0uQJaYvMY="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/317df645-c5f5-4b94-a76c-a58dfea14994.pdf",
+      "AssetFile": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\317df645-c5f5-4b94-a76c-a58dfea14994.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133411"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S5HsS5RWz4oz9iL0Y5IcMXyB/npJdLnpZB0uQJaYvMY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 09:11:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S5HsS5RWz4oz9iL0Y5IcMXyB/npJdLnpZB0uQJaYvMY="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/6179516c-f673-4c99-a1bd-a62d82cf98f2.kbe9c3ioam.pdf",
+      "AssetFile": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbe9c3ioam"
+        },
+        {
+          "Name": "label",
+          "Value": "resumes/6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf",
+      "AssetFile": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:31:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/db9c4805-4f9a-4323-aee0-011a8c727385.kbe9c3ioam.pdf",
+      "AssetFile": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\db9c4805-4f9a-4323-aee0-011a8c727385.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:56:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbe9c3ioam"
+        },
+        {
+          "Name": "label",
+          "Value": "resumes/db9c4805-4f9a-4323-aee0-011a8c727385.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/db9c4805-4f9a-4323-aee0-011a8c727385.pdf",
+      "AssetFile": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\db9c4805-4f9a-4323-aee0-011a8c727385.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:56:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/dc87748f-49dc-4052-b258-4750c8f41792.kbe9c3ioam.pdf",
+      "AssetFile": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\dc87748f-49dc-4052-b258-4750c8f41792.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:38:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbe9c3ioam"
+        },
+        {
+          "Name": "label",
+          "Value": "resumes/dc87748f-49dc-4052-b258-4750c8f41792.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/dc87748f-49dc-4052-b258-4750c8f41792.pdf",
+      "AssetFile": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\dc87748f-49dc-4052-b258-4750c8f41792.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:38:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/e7f03fa2-e095-4e3d-881e-aadf965a28b0.kbe9c3ioam.pdf",
+      "AssetFile": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:56:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbe9c3ioam"
+        },
+        {
+          "Name": "label",
+          "Value": "resumes/e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="
+        }
+      ]
+    },
+    {
+      "Route": "resumes/e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf",
+      "AssetFile": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 15 Jan 2025 11:56:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wEhxGzCVZgd4Xf9A5ZNtbkBEBvrTkGYzgwlnEc3OQJc="
+        }
+      ]
+    }
+  ]
+}

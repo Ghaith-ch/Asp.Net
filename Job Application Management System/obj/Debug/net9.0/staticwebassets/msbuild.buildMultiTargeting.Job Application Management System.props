@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Job Application Management System.props" />
+</Project>

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\317df645-c5f5-4b94-a76c-a58dfea14994.pdf",
+      "PackagePath": "staticwebassets\\resumes\\317df645-c5f5-4b94-a76c-a58dfea14994.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf",
+      "PackagePath": "staticwebassets\\resumes\\6179516c-f673-4c99-a1bd-a62d82cf98f2.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\db9c4805-4f9a-4323-aee0-011a8c727385.pdf",
+      "PackagePath": "staticwebassets\\resumes\\db9c4805-4f9a-4323-aee0-011a8c727385.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\dc87748f-49dc-4052-b258-4750c8f41792.pdf",
+      "PackagePath": "staticwebassets\\resumes\\dc87748f-49dc-4052-b258-4750c8f41792.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ghaai\\Desktop\\.NET\\Job Application Management System\\wwwroot\\resumes\\e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf",
+      "PackagePath": "staticwebassets\\resumes\\e7f03fa2-e095-4e3d-881e-aadf965a28b0.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Job Application Management System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Job Application Management System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Job Application Management System.props",
+      "PackagePath": "build\\Job Application Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Job Application Management System.props",
+      "PackagePath": "buildMultiTargeting\\Job Application Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Job Application Management System.props",
+      "PackagePath": "buildTransitive\\Job Application Management System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
